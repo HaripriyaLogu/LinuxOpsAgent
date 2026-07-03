@@ -35,7 +35,7 @@ The architecture emphasizes modularity, safety, extensibility, and explainabilit
 
 <p align="center">
 
-<img src="C:\Users\HP\Downloads\Haripriya_Personal\AI Projects\LinuxOpsAgent\docs\architect.png" width="1000">
+<img src="docs\architect.png" width="1000">
 
 </p>
 
@@ -151,7 +151,7 @@ Instead of manually connecting to servers and executing commands, administrators
 
 <p align="center">
 
-<img src="C:\Users\HP\Downloads\Haripriya_Personal\AI Projects\LinuxOpsAgent\docs\workflow.png" width="1100">
+<img src="docs\workflow.png" width="1100">
 
 </p>
 
