@@ -35,7 +35,7 @@ The architecture emphasizes modularity, safety, extensibility, and explainabilit
 
 <p align="center">
 
-<img src="docs\architect.png" width="1000">
+<img src="docs\Architect.png" width="1000">
 
 </p>
 
