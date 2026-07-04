@@ -1,0 +1,483 @@
+Performance Troubleshooting
+============================================================
+
+1. High CPU
+1. High Memory
+1. Disk Full
+1. IO Wait
+1. Network latency
+1. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+2. High CPU
+2. High Memory
+2. Disk Full
+2. IO Wait
+2. Network latency
+2. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+3. High CPU
+3. High Memory
+3. Disk Full
+3. IO Wait
+3. Network latency
+3. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+4. High CPU
+4. High Memory
+4. Disk Full
+4. IO Wait
+4. Network latency
+4. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+5. High CPU
+5. High Memory
+5. Disk Full
+5. IO Wait
+5. Network latency
+5. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+6. High CPU
+6. High Memory
+6. Disk Full
+6. IO Wait
+6. Network latency
+6. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+7. High CPU
+7. High Memory
+7. Disk Full
+7. IO Wait
+7. Network latency
+7. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+8. High CPU
+8. High Memory
+8. Disk Full
+8. IO Wait
+8. Network latency
+8. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+9. High CPU
+9. High Memory
+9. Disk Full
+9. IO Wait
+9. Network latency
+9. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+10. High CPU
+10. High Memory
+10. Disk Full
+10. IO Wait
+10. Network latency
+10. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+11. High CPU
+11. High Memory
+11. Disk Full
+11. IO Wait
+11. Network latency
+11. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+12. High CPU
+12. High Memory
+12. Disk Full
+12. IO Wait
+12. Network latency
+12. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+13. High CPU
+13. High Memory
+13. Disk Full
+13. IO Wait
+13. Network latency
+13. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+14. High CPU
+14. High Memory
+14. Disk Full
+14. IO Wait
+14. Network latency
+14. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+15. High CPU
+15. High Memory
+15. Disk Full
+15. IO Wait
+15. Network latency
+15. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+16. High CPU
+16. High Memory
+16. Disk Full
+16. IO Wait
+16. Network latency
+16. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+17. High CPU
+17. High Memory
+17. Disk Full
+17. IO Wait
+17. Network latency
+17. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+18. High CPU
+18. High Memory
+18. Disk Full
+18. IO Wait
+18. Network latency
+18. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+19. High CPU
+19. High Memory
+19. Disk Full
+19. IO Wait
+19. Network latency
+19. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+20. High CPU
+20. High Memory
+20. Disk Full
+20. IO Wait
+20. Network latency
+20. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+21. High CPU
+21. High Memory
+21. Disk Full
+21. IO Wait
+21. Network latency
+21. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+22. High CPU
+22. High Memory
+22. Disk Full
+22. IO Wait
+22. Network latency
+22. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+23. High CPU
+23. High Memory
+23. Disk Full
+23. IO Wait
+23. Network latency
+23. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+24. High CPU
+24. High Memory
+24. Disk Full
+24. IO Wait
+24. Network latency
+24. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+25. High CPU
+25. High Memory
+25. Disk Full
+25. IO Wait
+25. Network latency
+25. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+26. High CPU
+26. High Memory
+26. Disk Full
+26. IO Wait
+26. Network latency
+26. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+27. High CPU
+27. High Memory
+27. Disk Full
+27. IO Wait
+27. Network latency
+27. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+28. High CPU
+28. High Memory
+28. Disk Full
+28. IO Wait
+28. Network latency
+28. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+29. High CPU
+29. High Memory
+29. Disk Full
+29. IO Wait
+29. Network latency
+29. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+30. High CPU
+30. High Memory
+30. Disk Full
+30. IO Wait
+30. Network latency
+30. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+31. High CPU
+31. High Memory
+31. Disk Full
+31. IO Wait
+31. Network latency
+31. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+32. High CPU
+32. High Memory
+32. Disk Full
+32. IO Wait
+32. Network latency
+32. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+33. High CPU
+33. High Memory
+33. Disk Full
+33. IO Wait
+33. Network latency
+33. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+34. High CPU
+34. High Memory
+34. Disk Full
+34. IO Wait
+34. Network latency
+34. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+35. High CPU
+35. High Memory
+35. Disk Full
+35. IO Wait
+35. Network latency
+35. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+36. High CPU
+36. High Memory
+36. Disk Full
+36. IO Wait
+36. Network latency
+36. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+37. High CPU
+37. High Memory
+37. Disk Full
+37. IO Wait
+37. Network latency
+37. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+38. High CPU
+38. High Memory
+38. Disk Full
+38. IO Wait
+38. Network latency
+38. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+39. High CPU
+39. High Memory
+39. Disk Full
+39. IO Wait
+39. Network latency
+39. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+40. High CPU
+40. High Memory
+40. Disk Full
+40. IO Wait
+40. Network latency
+40. Incident workflow
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+

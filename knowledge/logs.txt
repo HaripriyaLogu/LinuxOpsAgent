@@ -1,0 +1,443 @@
+Logs
+============================================================
+
+1. /var/log/messages
+1. /var/log/syslog
+1. journalctl
+1. tail -f
+1. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+2. /var/log/messages
+2. /var/log/syslog
+2. journalctl
+2. tail -f
+2. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+3. /var/log/messages
+3. /var/log/syslog
+3. journalctl
+3. tail -f
+3. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+4. /var/log/messages
+4. /var/log/syslog
+4. journalctl
+4. tail -f
+4. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+5. /var/log/messages
+5. /var/log/syslog
+5. journalctl
+5. tail -f
+5. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+6. /var/log/messages
+6. /var/log/syslog
+6. journalctl
+6. tail -f
+6. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+7. /var/log/messages
+7. /var/log/syslog
+7. journalctl
+7. tail -f
+7. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+8. /var/log/messages
+8. /var/log/syslog
+8. journalctl
+8. tail -f
+8. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+9. /var/log/messages
+9. /var/log/syslog
+9. journalctl
+9. tail -f
+9. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+10. /var/log/messages
+10. /var/log/syslog
+10. journalctl
+10. tail -f
+10. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+11. /var/log/messages
+11. /var/log/syslog
+11. journalctl
+11. tail -f
+11. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+12. /var/log/messages
+12. /var/log/syslog
+12. journalctl
+12. tail -f
+12. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+13. /var/log/messages
+13. /var/log/syslog
+13. journalctl
+13. tail -f
+13. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+14. /var/log/messages
+14. /var/log/syslog
+14. journalctl
+14. tail -f
+14. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+15. /var/log/messages
+15. /var/log/syslog
+15. journalctl
+15. tail -f
+15. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+16. /var/log/messages
+16. /var/log/syslog
+16. journalctl
+16. tail -f
+16. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+17. /var/log/messages
+17. /var/log/syslog
+17. journalctl
+17. tail -f
+17. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+18. /var/log/messages
+18. /var/log/syslog
+18. journalctl
+18. tail -f
+18. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+19. /var/log/messages
+19. /var/log/syslog
+19. journalctl
+19. tail -f
+19. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+20. /var/log/messages
+20. /var/log/syslog
+20. journalctl
+20. tail -f
+20. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+21. /var/log/messages
+21. /var/log/syslog
+21. journalctl
+21. tail -f
+21. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+22. /var/log/messages
+22. /var/log/syslog
+22. journalctl
+22. tail -f
+22. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+23. /var/log/messages
+23. /var/log/syslog
+23. journalctl
+23. tail -f
+23. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+24. /var/log/messages
+24. /var/log/syslog
+24. journalctl
+24. tail -f
+24. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+25. /var/log/messages
+25. /var/log/syslog
+25. journalctl
+25. tail -f
+25. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+26. /var/log/messages
+26. /var/log/syslog
+26. journalctl
+26. tail -f
+26. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+27. /var/log/messages
+27. /var/log/syslog
+27. journalctl
+27. tail -f
+27. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+28. /var/log/messages
+28. /var/log/syslog
+28. journalctl
+28. tail -f
+28. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+29. /var/log/messages
+29. /var/log/syslog
+29. journalctl
+29. tail -f
+29. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+30. /var/log/messages
+30. /var/log/syslog
+30. journalctl
+30. tail -f
+30. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+31. /var/log/messages
+31. /var/log/syslog
+31. journalctl
+31. tail -f
+31. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+32. /var/log/messages
+32. /var/log/syslog
+32. journalctl
+32. tail -f
+32. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+33. /var/log/messages
+33. /var/log/syslog
+33. journalctl
+33. tail -f
+33. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+34. /var/log/messages
+34. /var/log/syslog
+34. journalctl
+34. tail -f
+34. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+35. /var/log/messages
+35. /var/log/syslog
+35. journalctl
+35. tail -f
+35. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+36. /var/log/messages
+36. /var/log/syslog
+36. journalctl
+36. tail -f
+36. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+37. /var/log/messages
+37. /var/log/syslog
+37. journalctl
+37. tail -f
+37. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+38. /var/log/messages
+38. /var/log/syslog
+38. journalctl
+38. tail -f
+38. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+39. /var/log/messages
+39. /var/log/syslog
+39. journalctl
+39. tail -f
+39. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+40. /var/log/messages
+40. /var/log/syslog
+40. journalctl
+40. tail -f
+40. grep
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+

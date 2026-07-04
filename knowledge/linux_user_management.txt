@@ -1,0 +1,643 @@
+Linux User Management
+============================================================
+
+1. User Management Overview
+1. Create User: useradd -m username
+1. Set Password: passwd username
+1. Delete User: userdel -r username
+1. Modify User: usermod
+1. Groups: groupadd, groupdel, usermod -aG
+1. Lock/Unlock: passwd -l / passwd -u
+1. Sudo configuration: visudo
+1. Important files: /etc/passwd, /etc/shadow, /etc/group
+1. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+2. User Management Overview
+2. Create User: useradd -m username
+2. Set Password: passwd username
+2. Delete User: userdel -r username
+2. Modify User: usermod
+2. Groups: groupadd, groupdel, usermod -aG
+2. Lock/Unlock: passwd -l / passwd -u
+2. Sudo configuration: visudo
+2. Important files: /etc/passwd, /etc/shadow, /etc/group
+2. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+3. User Management Overview
+3. Create User: useradd -m username
+3. Set Password: passwd username
+3. Delete User: userdel -r username
+3. Modify User: usermod
+3. Groups: groupadd, groupdel, usermod -aG
+3. Lock/Unlock: passwd -l / passwd -u
+3. Sudo configuration: visudo
+3. Important files: /etc/passwd, /etc/shadow, /etc/group
+3. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+4. User Management Overview
+4. Create User: useradd -m username
+4. Set Password: passwd username
+4. Delete User: userdel -r username
+4. Modify User: usermod
+4. Groups: groupadd, groupdel, usermod -aG
+4. Lock/Unlock: passwd -l / passwd -u
+4. Sudo configuration: visudo
+4. Important files: /etc/passwd, /etc/shadow, /etc/group
+4. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+5. User Management Overview
+5. Create User: useradd -m username
+5. Set Password: passwd username
+5. Delete User: userdel -r username
+5. Modify User: usermod
+5. Groups: groupadd, groupdel, usermod -aG
+5. Lock/Unlock: passwd -l / passwd -u
+5. Sudo configuration: visudo
+5. Important files: /etc/passwd, /etc/shadow, /etc/group
+5. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+6. User Management Overview
+6. Create User: useradd -m username
+6. Set Password: passwd username
+6. Delete User: userdel -r username
+6. Modify User: usermod
+6. Groups: groupadd, groupdel, usermod -aG
+6. Lock/Unlock: passwd -l / passwd -u
+6. Sudo configuration: visudo
+6. Important files: /etc/passwd, /etc/shadow, /etc/group
+6. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+7. User Management Overview
+7. Create User: useradd -m username
+7. Set Password: passwd username
+7. Delete User: userdel -r username
+7. Modify User: usermod
+7. Groups: groupadd, groupdel, usermod -aG
+7. Lock/Unlock: passwd -l / passwd -u
+7. Sudo configuration: visudo
+7. Important files: /etc/passwd, /etc/shadow, /etc/group
+7. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+8. User Management Overview
+8. Create User: useradd -m username
+8. Set Password: passwd username
+8. Delete User: userdel -r username
+8. Modify User: usermod
+8. Groups: groupadd, groupdel, usermod -aG
+8. Lock/Unlock: passwd -l / passwd -u
+8. Sudo configuration: visudo
+8. Important files: /etc/passwd, /etc/shadow, /etc/group
+8. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+9. User Management Overview
+9. Create User: useradd -m username
+9. Set Password: passwd username
+9. Delete User: userdel -r username
+9. Modify User: usermod
+9. Groups: groupadd, groupdel, usermod -aG
+9. Lock/Unlock: passwd -l / passwd -u
+9. Sudo configuration: visudo
+9. Important files: /etc/passwd, /etc/shadow, /etc/group
+9. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+10. User Management Overview
+10. Create User: useradd -m username
+10. Set Password: passwd username
+10. Delete User: userdel -r username
+10. Modify User: usermod
+10. Groups: groupadd, groupdel, usermod -aG
+10. Lock/Unlock: passwd -l / passwd -u
+10. Sudo configuration: visudo
+10. Important files: /etc/passwd, /etc/shadow, /etc/group
+10. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+11. User Management Overview
+11. Create User: useradd -m username
+11. Set Password: passwd username
+11. Delete User: userdel -r username
+11. Modify User: usermod
+11. Groups: groupadd, groupdel, usermod -aG
+11. Lock/Unlock: passwd -l / passwd -u
+11. Sudo configuration: visudo
+11. Important files: /etc/passwd, /etc/shadow, /etc/group
+11. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+12. User Management Overview
+12. Create User: useradd -m username
+12. Set Password: passwd username
+12. Delete User: userdel -r username
+12. Modify User: usermod
+12. Groups: groupadd, groupdel, usermod -aG
+12. Lock/Unlock: passwd -l / passwd -u
+12. Sudo configuration: visudo
+12. Important files: /etc/passwd, /etc/shadow, /etc/group
+12. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+13. User Management Overview
+13. Create User: useradd -m username
+13. Set Password: passwd username
+13. Delete User: userdel -r username
+13. Modify User: usermod
+13. Groups: groupadd, groupdel, usermod -aG
+13. Lock/Unlock: passwd -l / passwd -u
+13. Sudo configuration: visudo
+13. Important files: /etc/passwd, /etc/shadow, /etc/group
+13. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+14. User Management Overview
+14. Create User: useradd -m username
+14. Set Password: passwd username
+14. Delete User: userdel -r username
+14. Modify User: usermod
+14. Groups: groupadd, groupdel, usermod -aG
+14. Lock/Unlock: passwd -l / passwd -u
+14. Sudo configuration: visudo
+14. Important files: /etc/passwd, /etc/shadow, /etc/group
+14. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+15. User Management Overview
+15. Create User: useradd -m username
+15. Set Password: passwd username
+15. Delete User: userdel -r username
+15. Modify User: usermod
+15. Groups: groupadd, groupdel, usermod -aG
+15. Lock/Unlock: passwd -l / passwd -u
+15. Sudo configuration: visudo
+15. Important files: /etc/passwd, /etc/shadow, /etc/group
+15. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+16. User Management Overview
+16. Create User: useradd -m username
+16. Set Password: passwd username
+16. Delete User: userdel -r username
+16. Modify User: usermod
+16. Groups: groupadd, groupdel, usermod -aG
+16. Lock/Unlock: passwd -l / passwd -u
+16. Sudo configuration: visudo
+16. Important files: /etc/passwd, /etc/shadow, /etc/group
+16. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+17. User Management Overview
+17. Create User: useradd -m username
+17. Set Password: passwd username
+17. Delete User: userdel -r username
+17. Modify User: usermod
+17. Groups: groupadd, groupdel, usermod -aG
+17. Lock/Unlock: passwd -l / passwd -u
+17. Sudo configuration: visudo
+17. Important files: /etc/passwd, /etc/shadow, /etc/group
+17. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+18. User Management Overview
+18. Create User: useradd -m username
+18. Set Password: passwd username
+18. Delete User: userdel -r username
+18. Modify User: usermod
+18. Groups: groupadd, groupdel, usermod -aG
+18. Lock/Unlock: passwd -l / passwd -u
+18. Sudo configuration: visudo
+18. Important files: /etc/passwd, /etc/shadow, /etc/group
+18. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+19. User Management Overview
+19. Create User: useradd -m username
+19. Set Password: passwd username
+19. Delete User: userdel -r username
+19. Modify User: usermod
+19. Groups: groupadd, groupdel, usermod -aG
+19. Lock/Unlock: passwd -l / passwd -u
+19. Sudo configuration: visudo
+19. Important files: /etc/passwd, /etc/shadow, /etc/group
+19. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+20. User Management Overview
+20. Create User: useradd -m username
+20. Set Password: passwd username
+20. Delete User: userdel -r username
+20. Modify User: usermod
+20. Groups: groupadd, groupdel, usermod -aG
+20. Lock/Unlock: passwd -l / passwd -u
+20. Sudo configuration: visudo
+20. Important files: /etc/passwd, /etc/shadow, /etc/group
+20. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+21. User Management Overview
+21. Create User: useradd -m username
+21. Set Password: passwd username
+21. Delete User: userdel -r username
+21. Modify User: usermod
+21. Groups: groupadd, groupdel, usermod -aG
+21. Lock/Unlock: passwd -l / passwd -u
+21. Sudo configuration: visudo
+21. Important files: /etc/passwd, /etc/shadow, /etc/group
+21. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+22. User Management Overview
+22. Create User: useradd -m username
+22. Set Password: passwd username
+22. Delete User: userdel -r username
+22. Modify User: usermod
+22. Groups: groupadd, groupdel, usermod -aG
+22. Lock/Unlock: passwd -l / passwd -u
+22. Sudo configuration: visudo
+22. Important files: /etc/passwd, /etc/shadow, /etc/group
+22. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+23. User Management Overview
+23. Create User: useradd -m username
+23. Set Password: passwd username
+23. Delete User: userdel -r username
+23. Modify User: usermod
+23. Groups: groupadd, groupdel, usermod -aG
+23. Lock/Unlock: passwd -l / passwd -u
+23. Sudo configuration: visudo
+23. Important files: /etc/passwd, /etc/shadow, /etc/group
+23. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+24. User Management Overview
+24. Create User: useradd -m username
+24. Set Password: passwd username
+24. Delete User: userdel -r username
+24. Modify User: usermod
+24. Groups: groupadd, groupdel, usermod -aG
+24. Lock/Unlock: passwd -l / passwd -u
+24. Sudo configuration: visudo
+24. Important files: /etc/passwd, /etc/shadow, /etc/group
+24. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+25. User Management Overview
+25. Create User: useradd -m username
+25. Set Password: passwd username
+25. Delete User: userdel -r username
+25. Modify User: usermod
+25. Groups: groupadd, groupdel, usermod -aG
+25. Lock/Unlock: passwd -l / passwd -u
+25. Sudo configuration: visudo
+25. Important files: /etc/passwd, /etc/shadow, /etc/group
+25. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+26. User Management Overview
+26. Create User: useradd -m username
+26. Set Password: passwd username
+26. Delete User: userdel -r username
+26. Modify User: usermod
+26. Groups: groupadd, groupdel, usermod -aG
+26. Lock/Unlock: passwd -l / passwd -u
+26. Sudo configuration: visudo
+26. Important files: /etc/passwd, /etc/shadow, /etc/group
+26. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+27. User Management Overview
+27. Create User: useradd -m username
+27. Set Password: passwd username
+27. Delete User: userdel -r username
+27. Modify User: usermod
+27. Groups: groupadd, groupdel, usermod -aG
+27. Lock/Unlock: passwd -l / passwd -u
+27. Sudo configuration: visudo
+27. Important files: /etc/passwd, /etc/shadow, /etc/group
+27. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+28. User Management Overview
+28. Create User: useradd -m username
+28. Set Password: passwd username
+28. Delete User: userdel -r username
+28. Modify User: usermod
+28. Groups: groupadd, groupdel, usermod -aG
+28. Lock/Unlock: passwd -l / passwd -u
+28. Sudo configuration: visudo
+28. Important files: /etc/passwd, /etc/shadow, /etc/group
+28. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+29. User Management Overview
+29. Create User: useradd -m username
+29. Set Password: passwd username
+29. Delete User: userdel -r username
+29. Modify User: usermod
+29. Groups: groupadd, groupdel, usermod -aG
+29. Lock/Unlock: passwd -l / passwd -u
+29. Sudo configuration: visudo
+29. Important files: /etc/passwd, /etc/shadow, /etc/group
+29. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+30. User Management Overview
+30. Create User: useradd -m username
+30. Set Password: passwd username
+30. Delete User: userdel -r username
+30. Modify User: usermod
+30. Groups: groupadd, groupdel, usermod -aG
+30. Lock/Unlock: passwd -l / passwd -u
+30. Sudo configuration: visudo
+30. Important files: /etc/passwd, /etc/shadow, /etc/group
+30. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+31. User Management Overview
+31. Create User: useradd -m username
+31. Set Password: passwd username
+31. Delete User: userdel -r username
+31. Modify User: usermod
+31. Groups: groupadd, groupdel, usermod -aG
+31. Lock/Unlock: passwd -l / passwd -u
+31. Sudo configuration: visudo
+31. Important files: /etc/passwd, /etc/shadow, /etc/group
+31. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+32. User Management Overview
+32. Create User: useradd -m username
+32. Set Password: passwd username
+32. Delete User: userdel -r username
+32. Modify User: usermod
+32. Groups: groupadd, groupdel, usermod -aG
+32. Lock/Unlock: passwd -l / passwd -u
+32. Sudo configuration: visudo
+32. Important files: /etc/passwd, /etc/shadow, /etc/group
+32. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+33. User Management Overview
+33. Create User: useradd -m username
+33. Set Password: passwd username
+33. Delete User: userdel -r username
+33. Modify User: usermod
+33. Groups: groupadd, groupdel, usermod -aG
+33. Lock/Unlock: passwd -l / passwd -u
+33. Sudo configuration: visudo
+33. Important files: /etc/passwd, /etc/shadow, /etc/group
+33. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+34. User Management Overview
+34. Create User: useradd -m username
+34. Set Password: passwd username
+34. Delete User: userdel -r username
+34. Modify User: usermod
+34. Groups: groupadd, groupdel, usermod -aG
+34. Lock/Unlock: passwd -l / passwd -u
+34. Sudo configuration: visudo
+34. Important files: /etc/passwd, /etc/shadow, /etc/group
+34. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+35. User Management Overview
+35. Create User: useradd -m username
+35. Set Password: passwd username
+35. Delete User: userdel -r username
+35. Modify User: usermod
+35. Groups: groupadd, groupdel, usermod -aG
+35. Lock/Unlock: passwd -l / passwd -u
+35. Sudo configuration: visudo
+35. Important files: /etc/passwd, /etc/shadow, /etc/group
+35. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+36. User Management Overview
+36. Create User: useradd -m username
+36. Set Password: passwd username
+36. Delete User: userdel -r username
+36. Modify User: usermod
+36. Groups: groupadd, groupdel, usermod -aG
+36. Lock/Unlock: passwd -l / passwd -u
+36. Sudo configuration: visudo
+36. Important files: /etc/passwd, /etc/shadow, /etc/group
+36. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+37. User Management Overview
+37. Create User: useradd -m username
+37. Set Password: passwd username
+37. Delete User: userdel -r username
+37. Modify User: usermod
+37. Groups: groupadd, groupdel, usermod -aG
+37. Lock/Unlock: passwd -l / passwd -u
+37. Sudo configuration: visudo
+37. Important files: /etc/passwd, /etc/shadow, /etc/group
+37. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+38. User Management Overview
+38. Create User: useradd -m username
+38. Set Password: passwd username
+38. Delete User: userdel -r username
+38. Modify User: usermod
+38. Groups: groupadd, groupdel, usermod -aG
+38. Lock/Unlock: passwd -l / passwd -u
+38. Sudo configuration: visudo
+38. Important files: /etc/passwd, /etc/shadow, /etc/group
+38. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+39. User Management Overview
+39. Create User: useradd -m username
+39. Set Password: passwd username
+39. Delete User: userdel -r username
+39. Modify User: usermod
+39. Groups: groupadd, groupdel, usermod -aG
+39. Lock/Unlock: passwd -l / passwd -u
+39. Sudo configuration: visudo
+39. Important files: /etc/passwd, /etc/shadow, /etc/group
+39. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+40. User Management Overview
+40. Create User: useradd -m username
+40. Set Password: passwd username
+40. Delete User: userdel -r username
+40. Modify User: usermod
+40. Groups: groupadd, groupdel, usermod -aG
+40. Lock/Unlock: passwd -l / passwd -u
+40. Sudo configuration: visudo
+40. Important files: /etc/passwd, /etc/shadow, /etc/group
+40. Troubleshooting: permission denied, locked account
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+

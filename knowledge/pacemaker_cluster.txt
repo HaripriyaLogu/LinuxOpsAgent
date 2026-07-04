@@ -1,0 +1,483 @@
+Pacemaker Cluster
+============================================================
+
+1. Pacemaker overview
+1. crm status
+1. crm resource
+1. Maintenance mode
+1. Failover
+1. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+2. Pacemaker overview
+2. crm status
+2. crm resource
+2. Maintenance mode
+2. Failover
+2. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+3. Pacemaker overview
+3. crm status
+3. crm resource
+3. Maintenance mode
+3. Failover
+3. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+4. Pacemaker overview
+4. crm status
+4. crm resource
+4. Maintenance mode
+4. Failover
+4. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+5. Pacemaker overview
+5. crm status
+5. crm resource
+5. Maintenance mode
+5. Failover
+5. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+6. Pacemaker overview
+6. crm status
+6. crm resource
+6. Maintenance mode
+6. Failover
+6. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+7. Pacemaker overview
+7. crm status
+7. crm resource
+7. Maintenance mode
+7. Failover
+7. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+8. Pacemaker overview
+8. crm status
+8. crm resource
+8. Maintenance mode
+8. Failover
+8. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+9. Pacemaker overview
+9. crm status
+9. crm resource
+9. Maintenance mode
+9. Failover
+9. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+10. Pacemaker overview
+10. crm status
+10. crm resource
+10. Maintenance mode
+10. Failover
+10. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+11. Pacemaker overview
+11. crm status
+11. crm resource
+11. Maintenance mode
+11. Failover
+11. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+12. Pacemaker overview
+12. crm status
+12. crm resource
+12. Maintenance mode
+12. Failover
+12. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+13. Pacemaker overview
+13. crm status
+13. crm resource
+13. Maintenance mode
+13. Failover
+13. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+14. Pacemaker overview
+14. crm status
+14. crm resource
+14. Maintenance mode
+14. Failover
+14. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+15. Pacemaker overview
+15. crm status
+15. crm resource
+15. Maintenance mode
+15. Failover
+15. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+16. Pacemaker overview
+16. crm status
+16. crm resource
+16. Maintenance mode
+16. Failover
+16. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+17. Pacemaker overview
+17. crm status
+17. crm resource
+17. Maintenance mode
+17. Failover
+17. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+18. Pacemaker overview
+18. crm status
+18. crm resource
+18. Maintenance mode
+18. Failover
+18. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+19. Pacemaker overview
+19. crm status
+19. crm resource
+19. Maintenance mode
+19. Failover
+19. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+20. Pacemaker overview
+20. crm status
+20. crm resource
+20. Maintenance mode
+20. Failover
+20. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+21. Pacemaker overview
+21. crm status
+21. crm resource
+21. Maintenance mode
+21. Failover
+21. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+22. Pacemaker overview
+22. crm status
+22. crm resource
+22. Maintenance mode
+22. Failover
+22. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+23. Pacemaker overview
+23. crm status
+23. crm resource
+23. Maintenance mode
+23. Failover
+23. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+24. Pacemaker overview
+24. crm status
+24. crm resource
+24. Maintenance mode
+24. Failover
+24. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+25. Pacemaker overview
+25. crm status
+25. crm resource
+25. Maintenance mode
+25. Failover
+25. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+26. Pacemaker overview
+26. crm status
+26. crm resource
+26. Maintenance mode
+26. Failover
+26. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+27. Pacemaker overview
+27. crm status
+27. crm resource
+27. Maintenance mode
+27. Failover
+27. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+28. Pacemaker overview
+28. crm status
+28. crm resource
+28. Maintenance mode
+28. Failover
+28. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+29. Pacemaker overview
+29. crm status
+29. crm resource
+29. Maintenance mode
+29. Failover
+29. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+30. Pacemaker overview
+30. crm status
+30. crm resource
+30. Maintenance mode
+30. Failover
+30. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+31. Pacemaker overview
+31. crm status
+31. crm resource
+31. Maintenance mode
+31. Failover
+31. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+32. Pacemaker overview
+32. crm status
+32. crm resource
+32. Maintenance mode
+32. Failover
+32. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+33. Pacemaker overview
+33. crm status
+33. crm resource
+33. Maintenance mode
+33. Failover
+33. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+34. Pacemaker overview
+34. crm status
+34. crm resource
+34. Maintenance mode
+34. Failover
+34. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+35. Pacemaker overview
+35. crm status
+35. crm resource
+35. Maintenance mode
+35. Failover
+35. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+36. Pacemaker overview
+36. crm status
+36. crm resource
+36. Maintenance mode
+36. Failover
+36. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+37. Pacemaker overview
+37. crm status
+37. crm resource
+37. Maintenance mode
+37. Failover
+37. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+38. Pacemaker overview
+38. crm status
+38. crm resource
+38. Maintenance mode
+38. Failover
+38. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+39. Pacemaker overview
+39. crm status
+39. crm resource
+39. Maintenance mode
+39. Failover
+39. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+40. Pacemaker overview
+40. crm status
+40. crm resource
+40. Maintenance mode
+40. Failover
+40. Failback
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+

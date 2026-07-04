@@ -1,0 +1,483 @@
+Networking
+============================================================
+
+1. ip addr
+1. ip route
+1. ping
+1. ss -tulpn
+1. netstat
+1. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+2. ip addr
+2. ip route
+2. ping
+2. ss -tulpn
+2. netstat
+2. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+3. ip addr
+3. ip route
+3. ping
+3. ss -tulpn
+3. netstat
+3. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+4. ip addr
+4. ip route
+4. ping
+4. ss -tulpn
+4. netstat
+4. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+5. ip addr
+5. ip route
+5. ping
+5. ss -tulpn
+5. netstat
+5. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+6. ip addr
+6. ip route
+6. ping
+6. ss -tulpn
+6. netstat
+6. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+7. ip addr
+7. ip route
+7. ping
+7. ss -tulpn
+7. netstat
+7. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+8. ip addr
+8. ip route
+8. ping
+8. ss -tulpn
+8. netstat
+8. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+9. ip addr
+9. ip route
+9. ping
+9. ss -tulpn
+9. netstat
+9. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+10. ip addr
+10. ip route
+10. ping
+10. ss -tulpn
+10. netstat
+10. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+11. ip addr
+11. ip route
+11. ping
+11. ss -tulpn
+11. netstat
+11. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+12. ip addr
+12. ip route
+12. ping
+12. ss -tulpn
+12. netstat
+12. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+13. ip addr
+13. ip route
+13. ping
+13. ss -tulpn
+13. netstat
+13. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+14. ip addr
+14. ip route
+14. ping
+14. ss -tulpn
+14. netstat
+14. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+15. ip addr
+15. ip route
+15. ping
+15. ss -tulpn
+15. netstat
+15. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+16. ip addr
+16. ip route
+16. ping
+16. ss -tulpn
+16. netstat
+16. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+17. ip addr
+17. ip route
+17. ping
+17. ss -tulpn
+17. netstat
+17. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+18. ip addr
+18. ip route
+18. ping
+18. ss -tulpn
+18. netstat
+18. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+19. ip addr
+19. ip route
+19. ping
+19. ss -tulpn
+19. netstat
+19. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+20. ip addr
+20. ip route
+20. ping
+20. ss -tulpn
+20. netstat
+20. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+21. ip addr
+21. ip route
+21. ping
+21. ss -tulpn
+21. netstat
+21. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+22. ip addr
+22. ip route
+22. ping
+22. ss -tulpn
+22. netstat
+22. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+23. ip addr
+23. ip route
+23. ping
+23. ss -tulpn
+23. netstat
+23. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+24. ip addr
+24. ip route
+24. ping
+24. ss -tulpn
+24. netstat
+24. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+25. ip addr
+25. ip route
+25. ping
+25. ss -tulpn
+25. netstat
+25. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+26. ip addr
+26. ip route
+26. ping
+26. ss -tulpn
+26. netstat
+26. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+27. ip addr
+27. ip route
+27. ping
+27. ss -tulpn
+27. netstat
+27. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+28. ip addr
+28. ip route
+28. ping
+28. ss -tulpn
+28. netstat
+28. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+29. ip addr
+29. ip route
+29. ping
+29. ss -tulpn
+29. netstat
+29. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+30. ip addr
+30. ip route
+30. ping
+30. ss -tulpn
+30. netstat
+30. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+31. ip addr
+31. ip route
+31. ping
+31. ss -tulpn
+31. netstat
+31. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+32. ip addr
+32. ip route
+32. ping
+32. ss -tulpn
+32. netstat
+32. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+33. ip addr
+33. ip route
+33. ping
+33. ss -tulpn
+33. netstat
+33. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+34. ip addr
+34. ip route
+34. ping
+34. ss -tulpn
+34. netstat
+34. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+35. ip addr
+35. ip route
+35. ping
+35. ss -tulpn
+35. netstat
+35. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+36. ip addr
+36. ip route
+36. ping
+36. ss -tulpn
+36. netstat
+36. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+37. ip addr
+37. ip route
+37. ping
+37. ss -tulpn
+37. netstat
+37. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+38. ip addr
+38. ip route
+38. ping
+38. ss -tulpn
+38. netstat
+38. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+39. ip addr
+39. ip route
+39. ping
+39. ss -tulpn
+39. netstat
+39. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+40. ip addr
+40. ip route
+40. ping
+40. ss -tulpn
+40. netstat
+40. DNS troubleshooting
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+

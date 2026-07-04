@@ -1,0 +1,483 @@
+Sap Hana
+============================================================
+
+1. HANA Services
+1. HDB info
+1. Start/Stop
+1. Trace files
+1. Backup
+1. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+2. HANA Services
+2. HDB info
+2. Start/Stop
+2. Trace files
+2. Backup
+2. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+3. HANA Services
+3. HDB info
+3. Start/Stop
+3. Trace files
+3. Backup
+3. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+4. HANA Services
+4. HDB info
+4. Start/Stop
+4. Trace files
+4. Backup
+4. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+5. HANA Services
+5. HDB info
+5. Start/Stop
+5. Trace files
+5. Backup
+5. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+6. HANA Services
+6. HDB info
+6. Start/Stop
+6. Trace files
+6. Backup
+6. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+7. HANA Services
+7. HDB info
+7. Start/Stop
+7. Trace files
+7. Backup
+7. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+8. HANA Services
+8. HDB info
+8. Start/Stop
+8. Trace files
+8. Backup
+8. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+9. HANA Services
+9. HDB info
+9. Start/Stop
+9. Trace files
+9. Backup
+9. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+10. HANA Services
+10. HDB info
+10. Start/Stop
+10. Trace files
+10. Backup
+10. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+11. HANA Services
+11. HDB info
+11. Start/Stop
+11. Trace files
+11. Backup
+11. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+12. HANA Services
+12. HDB info
+12. Start/Stop
+12. Trace files
+12. Backup
+12. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+13. HANA Services
+13. HDB info
+13. Start/Stop
+13. Trace files
+13. Backup
+13. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+14. HANA Services
+14. HDB info
+14. Start/Stop
+14. Trace files
+14. Backup
+14. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+15. HANA Services
+15. HDB info
+15. Start/Stop
+15. Trace files
+15. Backup
+15. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+16. HANA Services
+16. HDB info
+16. Start/Stop
+16. Trace files
+16. Backup
+16. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+17. HANA Services
+17. HDB info
+17. Start/Stop
+17. Trace files
+17. Backup
+17. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+18. HANA Services
+18. HDB info
+18. Start/Stop
+18. Trace files
+18. Backup
+18. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+19. HANA Services
+19. HDB info
+19. Start/Stop
+19. Trace files
+19. Backup
+19. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+20. HANA Services
+20. HDB info
+20. Start/Stop
+20. Trace files
+20. Backup
+20. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+21. HANA Services
+21. HDB info
+21. Start/Stop
+21. Trace files
+21. Backup
+21. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+22. HANA Services
+22. HDB info
+22. Start/Stop
+22. Trace files
+22. Backup
+22. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+23. HANA Services
+23. HDB info
+23. Start/Stop
+23. Trace files
+23. Backup
+23. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+24. HANA Services
+24. HDB info
+24. Start/Stop
+24. Trace files
+24. Backup
+24. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+25. HANA Services
+25. HDB info
+25. Start/Stop
+25. Trace files
+25. Backup
+25. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+26. HANA Services
+26. HDB info
+26. Start/Stop
+26. Trace files
+26. Backup
+26. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+27. HANA Services
+27. HDB info
+27. Start/Stop
+27. Trace files
+27. Backup
+27. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+28. HANA Services
+28. HDB info
+28. Start/Stop
+28. Trace files
+28. Backup
+28. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+29. HANA Services
+29. HDB info
+29. Start/Stop
+29. Trace files
+29. Backup
+29. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+30. HANA Services
+30. HDB info
+30. Start/Stop
+30. Trace files
+30. Backup
+30. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+31. HANA Services
+31. HDB info
+31. Start/Stop
+31. Trace files
+31. Backup
+31. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+32. HANA Services
+32. HDB info
+32. Start/Stop
+32. Trace files
+32. Backup
+32. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+33. HANA Services
+33. HDB info
+33. Start/Stop
+33. Trace files
+33. Backup
+33. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+34. HANA Services
+34. HDB info
+34. Start/Stop
+34. Trace files
+34. Backup
+34. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+35. HANA Services
+35. HDB info
+35. Start/Stop
+35. Trace files
+35. Backup
+35. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+36. HANA Services
+36. HDB info
+36. Start/Stop
+36. Trace files
+36. Backup
+36. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+37. HANA Services
+37. HDB info
+37. Start/Stop
+37. Trace files
+37. Backup
+37. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+38. HANA Services
+38. HDB info
+38. Start/Stop
+38. Trace files
+38. Backup
+38. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+39. HANA Services
+39. HDB info
+39. Start/Stop
+39. Trace files
+39. Backup
+39. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+40. HANA Services
+40. HDB info
+40. Start/Stop
+40. Trace files
+40. Backup
+40. Health checks
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+

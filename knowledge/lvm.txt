@@ -1,0 +1,483 @@
+Lvm
+============================================================
+
+1. Physical Volume (pvcreate)
+1. Volume Group (vgcreate)
+1. Logical Volume (lvcreate)
+1. Extend LV
+1. Resize filesystem
+1. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+2. Physical Volume (pvcreate)
+2. Volume Group (vgcreate)
+2. Logical Volume (lvcreate)
+2. Extend LV
+2. Resize filesystem
+2. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+3. Physical Volume (pvcreate)
+3. Volume Group (vgcreate)
+3. Logical Volume (lvcreate)
+3. Extend LV
+3. Resize filesystem
+3. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+4. Physical Volume (pvcreate)
+4. Volume Group (vgcreate)
+4. Logical Volume (lvcreate)
+4. Extend LV
+4. Resize filesystem
+4. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+5. Physical Volume (pvcreate)
+5. Volume Group (vgcreate)
+5. Logical Volume (lvcreate)
+5. Extend LV
+5. Resize filesystem
+5. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+6. Physical Volume (pvcreate)
+6. Volume Group (vgcreate)
+6. Logical Volume (lvcreate)
+6. Extend LV
+6. Resize filesystem
+6. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+7. Physical Volume (pvcreate)
+7. Volume Group (vgcreate)
+7. Logical Volume (lvcreate)
+7. Extend LV
+7. Resize filesystem
+7. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+8. Physical Volume (pvcreate)
+8. Volume Group (vgcreate)
+8. Logical Volume (lvcreate)
+8. Extend LV
+8. Resize filesystem
+8. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+9. Physical Volume (pvcreate)
+9. Volume Group (vgcreate)
+9. Logical Volume (lvcreate)
+9. Extend LV
+9. Resize filesystem
+9. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+10. Physical Volume (pvcreate)
+10. Volume Group (vgcreate)
+10. Logical Volume (lvcreate)
+10. Extend LV
+10. Resize filesystem
+10. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+11. Physical Volume (pvcreate)
+11. Volume Group (vgcreate)
+11. Logical Volume (lvcreate)
+11. Extend LV
+11. Resize filesystem
+11. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+12. Physical Volume (pvcreate)
+12. Volume Group (vgcreate)
+12. Logical Volume (lvcreate)
+12. Extend LV
+12. Resize filesystem
+12. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+13. Physical Volume (pvcreate)
+13. Volume Group (vgcreate)
+13. Logical Volume (lvcreate)
+13. Extend LV
+13. Resize filesystem
+13. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+14. Physical Volume (pvcreate)
+14. Volume Group (vgcreate)
+14. Logical Volume (lvcreate)
+14. Extend LV
+14. Resize filesystem
+14. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+15. Physical Volume (pvcreate)
+15. Volume Group (vgcreate)
+15. Logical Volume (lvcreate)
+15. Extend LV
+15. Resize filesystem
+15. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+16. Physical Volume (pvcreate)
+16. Volume Group (vgcreate)
+16. Logical Volume (lvcreate)
+16. Extend LV
+16. Resize filesystem
+16. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+17. Physical Volume (pvcreate)
+17. Volume Group (vgcreate)
+17. Logical Volume (lvcreate)
+17. Extend LV
+17. Resize filesystem
+17. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+18. Physical Volume (pvcreate)
+18. Volume Group (vgcreate)
+18. Logical Volume (lvcreate)
+18. Extend LV
+18. Resize filesystem
+18. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+19. Physical Volume (pvcreate)
+19. Volume Group (vgcreate)
+19. Logical Volume (lvcreate)
+19. Extend LV
+19. Resize filesystem
+19. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+20. Physical Volume (pvcreate)
+20. Volume Group (vgcreate)
+20. Logical Volume (lvcreate)
+20. Extend LV
+20. Resize filesystem
+20. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+21. Physical Volume (pvcreate)
+21. Volume Group (vgcreate)
+21. Logical Volume (lvcreate)
+21. Extend LV
+21. Resize filesystem
+21. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+22. Physical Volume (pvcreate)
+22. Volume Group (vgcreate)
+22. Logical Volume (lvcreate)
+22. Extend LV
+22. Resize filesystem
+22. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+23. Physical Volume (pvcreate)
+23. Volume Group (vgcreate)
+23. Logical Volume (lvcreate)
+23. Extend LV
+23. Resize filesystem
+23. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+24. Physical Volume (pvcreate)
+24. Volume Group (vgcreate)
+24. Logical Volume (lvcreate)
+24. Extend LV
+24. Resize filesystem
+24. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+25. Physical Volume (pvcreate)
+25. Volume Group (vgcreate)
+25. Logical Volume (lvcreate)
+25. Extend LV
+25. Resize filesystem
+25. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+26. Physical Volume (pvcreate)
+26. Volume Group (vgcreate)
+26. Logical Volume (lvcreate)
+26. Extend LV
+26. Resize filesystem
+26. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+27. Physical Volume (pvcreate)
+27. Volume Group (vgcreate)
+27. Logical Volume (lvcreate)
+27. Extend LV
+27. Resize filesystem
+27. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+28. Physical Volume (pvcreate)
+28. Volume Group (vgcreate)
+28. Logical Volume (lvcreate)
+28. Extend LV
+28. Resize filesystem
+28. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+29. Physical Volume (pvcreate)
+29. Volume Group (vgcreate)
+29. Logical Volume (lvcreate)
+29. Extend LV
+29. Resize filesystem
+29. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+30. Physical Volume (pvcreate)
+30. Volume Group (vgcreate)
+30. Logical Volume (lvcreate)
+30. Extend LV
+30. Resize filesystem
+30. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+31. Physical Volume (pvcreate)
+31. Volume Group (vgcreate)
+31. Logical Volume (lvcreate)
+31. Extend LV
+31. Resize filesystem
+31. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+32. Physical Volume (pvcreate)
+32. Volume Group (vgcreate)
+32. Logical Volume (lvcreate)
+32. Extend LV
+32. Resize filesystem
+32. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+33. Physical Volume (pvcreate)
+33. Volume Group (vgcreate)
+33. Logical Volume (lvcreate)
+33. Extend LV
+33. Resize filesystem
+33. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+34. Physical Volume (pvcreate)
+34. Volume Group (vgcreate)
+34. Logical Volume (lvcreate)
+34. Extend LV
+34. Resize filesystem
+34. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+35. Physical Volume (pvcreate)
+35. Volume Group (vgcreate)
+35. Logical Volume (lvcreate)
+35. Extend LV
+35. Resize filesystem
+35. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+36. Physical Volume (pvcreate)
+36. Volume Group (vgcreate)
+36. Logical Volume (lvcreate)
+36. Extend LV
+36. Resize filesystem
+36. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+37. Physical Volume (pvcreate)
+37. Volume Group (vgcreate)
+37. Logical Volume (lvcreate)
+37. Extend LV
+37. Resize filesystem
+37. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+38. Physical Volume (pvcreate)
+38. Volume Group (vgcreate)
+38. Logical Volume (lvcreate)
+38. Extend LV
+38. Resize filesystem
+38. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+39. Physical Volume (pvcreate)
+39. Volume Group (vgcreate)
+39. Logical Volume (lvcreate)
+39. Extend LV
+39. Resize filesystem
+39. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+40. Physical Volume (pvcreate)
+40. Volume Group (vgcreate)
+40. Logical Volume (lvcreate)
+40. Extend LV
+40. Resize filesystem
+40. Display commands: pvs, vgs, lvs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+

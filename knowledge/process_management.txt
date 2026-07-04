@@ -1,0 +1,483 @@
+Process Management
+============================================================
+
+1. ps -ef
+1. top
+1. kill
+1. killall
+1. nice
+1. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+2. ps -ef
+2. top
+2. kill
+2. killall
+2. nice
+2. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+3. ps -ef
+3. top
+3. kill
+3. killall
+3. nice
+3. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+4. ps -ef
+4. top
+4. kill
+4. killall
+4. nice
+4. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+5. ps -ef
+5. top
+5. kill
+5. killall
+5. nice
+5. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+6. ps -ef
+6. top
+6. kill
+6. killall
+6. nice
+6. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+7. ps -ef
+7. top
+7. kill
+7. killall
+7. nice
+7. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+8. ps -ef
+8. top
+8. kill
+8. killall
+8. nice
+8. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+9. ps -ef
+9. top
+9. kill
+9. killall
+9. nice
+9. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+10. ps -ef
+10. top
+10. kill
+10. killall
+10. nice
+10. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+11. ps -ef
+11. top
+11. kill
+11. killall
+11. nice
+11. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+12. ps -ef
+12. top
+12. kill
+12. killall
+12. nice
+12. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+13. ps -ef
+13. top
+13. kill
+13. killall
+13. nice
+13. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+14. ps -ef
+14. top
+14. kill
+14. killall
+14. nice
+14. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+15. ps -ef
+15. top
+15. kill
+15. killall
+15. nice
+15. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+16. ps -ef
+16. top
+16. kill
+16. killall
+16. nice
+16. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+17. ps -ef
+17. top
+17. kill
+17. killall
+17. nice
+17. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+18. ps -ef
+18. top
+18. kill
+18. killall
+18. nice
+18. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+19. ps -ef
+19. top
+19. kill
+19. killall
+19. nice
+19. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+20. ps -ef
+20. top
+20. kill
+20. killall
+20. nice
+20. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+21. ps -ef
+21. top
+21. kill
+21. killall
+21. nice
+21. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+22. ps -ef
+22. top
+22. kill
+22. killall
+22. nice
+22. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+23. ps -ef
+23. top
+23. kill
+23. killall
+23. nice
+23. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+24. ps -ef
+24. top
+24. kill
+24. killall
+24. nice
+24. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+25. ps -ef
+25. top
+25. kill
+25. killall
+25. nice
+25. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+26. ps -ef
+26. top
+26. kill
+26. killall
+26. nice
+26. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+27. ps -ef
+27. top
+27. kill
+27. killall
+27. nice
+27. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+28. ps -ef
+28. top
+28. kill
+28. killall
+28. nice
+28. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+29. ps -ef
+29. top
+29. kill
+29. killall
+29. nice
+29. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+30. ps -ef
+30. top
+30. kill
+30. killall
+30. nice
+30. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+31. ps -ef
+31. top
+31. kill
+31. killall
+31. nice
+31. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+32. ps -ef
+32. top
+32. kill
+32. killall
+32. nice
+32. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+33. ps -ef
+33. top
+33. kill
+33. killall
+33. nice
+33. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+34. ps -ef
+34. top
+34. kill
+34. killall
+34. nice
+34. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+35. ps -ef
+35. top
+35. kill
+35. killall
+35. nice
+35. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+36. ps -ef
+36. top
+36. kill
+36. killall
+36. nice
+36. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+37. ps -ef
+37. top
+37. kill
+37. killall
+37. nice
+37. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+38. ps -ef
+38. top
+38. kill
+38. killall
+38. nice
+38. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+39. ps -ef
+39. top
+39. kill
+39. killall
+39. nice
+39. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+40. ps -ef
+40. top
+40. kill
+40. killall
+40. nice
+40. renice
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+

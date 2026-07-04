@@ -1,0 +1,88 @@
+Linux User Management
+
+Create User
+useradd username
+
+Create User with Home Directory
+useradd -m username
+
+Set Password
+passwd username
+
+Delete User
+userdel username
+
+Delete User with Home Directory
+userdel -r username
+
+List Users
+cat /etc/passwd
+
+Current User
+whoami
+
+Current Logged-in Users
+who
+
+Switch User
+su username
+
+Sudo User
+usermod -aG wheel username
+
+Groups
+groups username
+
+Change Owner
+chown user:file filename
+
+Change Permissions
+chmod 755 filename
+
+View Permissions
+ls -l
+
+Create Directory
+mkdir test
+
+Remove Directory
+rm -rf test
+
+Copy File
+cp source destination
+
+Move File
+mv source destination
+
+Find File
+find / -name filename
+
+Disk Usage
+df -h
+
+Memory Usage
+free -h
+
+CPU Usage
+top
+
+Running Processes
+ps -ef
+
+Kill Process
+kill -9 PID
+
+Restart Service
+systemctl restart service
+
+Service Status
+systemctl status service
+
+Enable Service
+systemctl enable service
+
+View Logs
+journalctl -xe
+
+SSH Service Status
+systemctl status sshd

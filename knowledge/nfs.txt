@@ -1,0 +1,483 @@
+Nfs
+============================================================
+
+1. NFS Overview
+1. Server exports
+1. /etc/exports
+1. showmount -e
+1. mount -t nfs
+1. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+2. NFS Overview
+2. Server exports
+2. /etc/exports
+2. showmount -e
+2. mount -t nfs
+2. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+3. NFS Overview
+3. Server exports
+3. /etc/exports
+3. showmount -e
+3. mount -t nfs
+3. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+4. NFS Overview
+4. Server exports
+4. /etc/exports
+4. showmount -e
+4. mount -t nfs
+4. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+5. NFS Overview
+5. Server exports
+5. /etc/exports
+5. showmount -e
+5. mount -t nfs
+5. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+6. NFS Overview
+6. Server exports
+6. /etc/exports
+6. showmount -e
+6. mount -t nfs
+6. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+7. NFS Overview
+7. Server exports
+7. /etc/exports
+7. showmount -e
+7. mount -t nfs
+7. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+8. NFS Overview
+8. Server exports
+8. /etc/exports
+8. showmount -e
+8. mount -t nfs
+8. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+9. NFS Overview
+9. Server exports
+9. /etc/exports
+9. showmount -e
+9. mount -t nfs
+9. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+10. NFS Overview
+10. Server exports
+10. /etc/exports
+10. showmount -e
+10. mount -t nfs
+10. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+11. NFS Overview
+11. Server exports
+11. /etc/exports
+11. showmount -e
+11. mount -t nfs
+11. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+12. NFS Overview
+12. Server exports
+12. /etc/exports
+12. showmount -e
+12. mount -t nfs
+12. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+13. NFS Overview
+13. Server exports
+13. /etc/exports
+13. showmount -e
+13. mount -t nfs
+13. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+14. NFS Overview
+14. Server exports
+14. /etc/exports
+14. showmount -e
+14. mount -t nfs
+14. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+15. NFS Overview
+15. Server exports
+15. /etc/exports
+15. showmount -e
+15. mount -t nfs
+15. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+16. NFS Overview
+16. Server exports
+16. /etc/exports
+16. showmount -e
+16. mount -t nfs
+16. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+17. NFS Overview
+17. Server exports
+17. /etc/exports
+17. showmount -e
+17. mount -t nfs
+17. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+18. NFS Overview
+18. Server exports
+18. /etc/exports
+18. showmount -e
+18. mount -t nfs
+18. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+19. NFS Overview
+19. Server exports
+19. /etc/exports
+19. showmount -e
+19. mount -t nfs
+19. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+20. NFS Overview
+20. Server exports
+20. /etc/exports
+20. showmount -e
+20. mount -t nfs
+20. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+21. NFS Overview
+21. Server exports
+21. /etc/exports
+21. showmount -e
+21. mount -t nfs
+21. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+22. NFS Overview
+22. Server exports
+22. /etc/exports
+22. showmount -e
+22. mount -t nfs
+22. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+23. NFS Overview
+23. Server exports
+23. /etc/exports
+23. showmount -e
+23. mount -t nfs
+23. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+24. NFS Overview
+24. Server exports
+24. /etc/exports
+24. showmount -e
+24. mount -t nfs
+24. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+25. NFS Overview
+25. Server exports
+25. /etc/exports
+25. showmount -e
+25. mount -t nfs
+25. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+26. NFS Overview
+26. Server exports
+26. /etc/exports
+26. showmount -e
+26. mount -t nfs
+26. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+27. NFS Overview
+27. Server exports
+27. /etc/exports
+27. showmount -e
+27. mount -t nfs
+27. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+28. NFS Overview
+28. Server exports
+28. /etc/exports
+28. showmount -e
+28. mount -t nfs
+28. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+29. NFS Overview
+29. Server exports
+29. /etc/exports
+29. showmount -e
+29. mount -t nfs
+29. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+30. NFS Overview
+30. Server exports
+30. /etc/exports
+30. showmount -e
+30. mount -t nfs
+30. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+31. NFS Overview
+31. Server exports
+31. /etc/exports
+31. showmount -e
+31. mount -t nfs
+31. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+32. NFS Overview
+32. Server exports
+32. /etc/exports
+32. showmount -e
+32. mount -t nfs
+32. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+33. NFS Overview
+33. Server exports
+33. /etc/exports
+33. showmount -e
+33. mount -t nfs
+33. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+34. NFS Overview
+34. Server exports
+34. /etc/exports
+34. showmount -e
+34. mount -t nfs
+34. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+35. NFS Overview
+35. Server exports
+35. /etc/exports
+35. showmount -e
+35. mount -t nfs
+35. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+36. NFS Overview
+36. Server exports
+36. /etc/exports
+36. showmount -e
+36. mount -t nfs
+36. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+37. NFS Overview
+37. Server exports
+37. /etc/exports
+37. showmount -e
+37. mount -t nfs
+37. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+38. NFS Overview
+38. Server exports
+38. /etc/exports
+38. showmount -e
+38. mount -t nfs
+38. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+39. NFS Overview
+39. Server exports
+39. /etc/exports
+39. showmount -e
+39. mount -t nfs
+39. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+40. NFS Overview
+40. Server exports
+40. /etc/exports
+40. showmount -e
+40. mount -t nfs
+40. Troubleshooting stale file handle
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+

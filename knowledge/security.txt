@@ -1,0 +1,483 @@
+Security
+============================================================
+
+1. chmod
+1. chown
+1. SELinux/AppArmor
+1. Firewall
+1. SSH hardening
+1. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+2. chmod
+2. chown
+2. SELinux/AppArmor
+2. Firewall
+2. SSH hardening
+2. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+3. chmod
+3. chown
+3. SELinux/AppArmor
+3. Firewall
+3. SSH hardening
+3. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+4. chmod
+4. chown
+4. SELinux/AppArmor
+4. Firewall
+4. SSH hardening
+4. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+5. chmod
+5. chown
+5. SELinux/AppArmor
+5. Firewall
+5. SSH hardening
+5. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+6. chmod
+6. chown
+6. SELinux/AppArmor
+6. Firewall
+6. SSH hardening
+6. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+7. chmod
+7. chown
+7. SELinux/AppArmor
+7. Firewall
+7. SSH hardening
+7. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+8. chmod
+8. chown
+8. SELinux/AppArmor
+8. Firewall
+8. SSH hardening
+8. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+9. chmod
+9. chown
+9. SELinux/AppArmor
+9. Firewall
+9. SSH hardening
+9. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+10. chmod
+10. chown
+10. SELinux/AppArmor
+10. Firewall
+10. SSH hardening
+10. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+11. chmod
+11. chown
+11. SELinux/AppArmor
+11. Firewall
+11. SSH hardening
+11. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+12. chmod
+12. chown
+12. SELinux/AppArmor
+12. Firewall
+12. SSH hardening
+12. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+13. chmod
+13. chown
+13. SELinux/AppArmor
+13. Firewall
+13. SSH hardening
+13. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+14. chmod
+14. chown
+14. SELinux/AppArmor
+14. Firewall
+14. SSH hardening
+14. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+15. chmod
+15. chown
+15. SELinux/AppArmor
+15. Firewall
+15. SSH hardening
+15. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+16. chmod
+16. chown
+16. SELinux/AppArmor
+16. Firewall
+16. SSH hardening
+16. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+17. chmod
+17. chown
+17. SELinux/AppArmor
+17. Firewall
+17. SSH hardening
+17. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+18. chmod
+18. chown
+18. SELinux/AppArmor
+18. Firewall
+18. SSH hardening
+18. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+19. chmod
+19. chown
+19. SELinux/AppArmor
+19. Firewall
+19. SSH hardening
+19. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+20. chmod
+20. chown
+20. SELinux/AppArmor
+20. Firewall
+20. SSH hardening
+20. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+21. chmod
+21. chown
+21. SELinux/AppArmor
+21. Firewall
+21. SSH hardening
+21. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+22. chmod
+22. chown
+22. SELinux/AppArmor
+22. Firewall
+22. SSH hardening
+22. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+23. chmod
+23. chown
+23. SELinux/AppArmor
+23. Firewall
+23. SSH hardening
+23. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+24. chmod
+24. chown
+24. SELinux/AppArmor
+24. Firewall
+24. SSH hardening
+24. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+25. chmod
+25. chown
+25. SELinux/AppArmor
+25. Firewall
+25. SSH hardening
+25. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+26. chmod
+26. chown
+26. SELinux/AppArmor
+26. Firewall
+26. SSH hardening
+26. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+27. chmod
+27. chown
+27. SELinux/AppArmor
+27. Firewall
+27. SSH hardening
+27. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+28. chmod
+28. chown
+28. SELinux/AppArmor
+28. Firewall
+28. SSH hardening
+28. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+29. chmod
+29. chown
+29. SELinux/AppArmor
+29. Firewall
+29. SSH hardening
+29. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+30. chmod
+30. chown
+30. SELinux/AppArmor
+30. Firewall
+30. SSH hardening
+30. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+31. chmod
+31. chown
+31. SELinux/AppArmor
+31. Firewall
+31. SSH hardening
+31. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+32. chmod
+32. chown
+32. SELinux/AppArmor
+32. Firewall
+32. SSH hardening
+32. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+33. chmod
+33. chown
+33. SELinux/AppArmor
+33. Firewall
+33. SSH hardening
+33. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+34. chmod
+34. chown
+34. SELinux/AppArmor
+34. Firewall
+34. SSH hardening
+34. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+35. chmod
+35. chown
+35. SELinux/AppArmor
+35. Firewall
+35. SSH hardening
+35. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+36. chmod
+36. chown
+36. SELinux/AppArmor
+36. Firewall
+36. SSH hardening
+36. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+37. chmod
+37. chown
+37. SELinux/AppArmor
+37. Firewall
+37. SSH hardening
+37. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+38. chmod
+38. chown
+38. SELinux/AppArmor
+38. Firewall
+38. SSH hardening
+38. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+39. chmod
+39. chown
+39. SELinux/AppArmor
+39. Firewall
+39. SSH hardening
+39. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+40. chmod
+40. chown
+40. SELinux/AppArmor
+40. Firewall
+40. SSH hardening
+40. Audit logs
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+

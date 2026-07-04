@@ -1,0 +1,483 @@
+Cpu Memory
+============================================================
+
+1. top
+1. htop
+1. free -h
+1. vmstat
+1. sar
+1. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+2. top
+2. htop
+2. free -h
+2. vmstat
+2. sar
+2. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+3. top
+3. htop
+3. free -h
+3. vmstat
+3. sar
+3. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+4. top
+4. htop
+4. free -h
+4. vmstat
+4. sar
+4. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+5. top
+5. htop
+5. free -h
+5. vmstat
+5. sar
+5. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+6. top
+6. htop
+6. free -h
+6. vmstat
+6. sar
+6. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+7. top
+7. htop
+7. free -h
+7. vmstat
+7. sar
+7. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+8. top
+8. htop
+8. free -h
+8. vmstat
+8. sar
+8. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+9. top
+9. htop
+9. free -h
+9. vmstat
+9. sar
+9. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+10. top
+10. htop
+10. free -h
+10. vmstat
+10. sar
+10. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+11. top
+11. htop
+11. free -h
+11. vmstat
+11. sar
+11. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+12. top
+12. htop
+12. free -h
+12. vmstat
+12. sar
+12. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+13. top
+13. htop
+13. free -h
+13. vmstat
+13. sar
+13. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+14. top
+14. htop
+14. free -h
+14. vmstat
+14. sar
+14. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+15. top
+15. htop
+15. free -h
+15. vmstat
+15. sar
+15. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+16. top
+16. htop
+16. free -h
+16. vmstat
+16. sar
+16. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+17. top
+17. htop
+17. free -h
+17. vmstat
+17. sar
+17. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+18. top
+18. htop
+18. free -h
+18. vmstat
+18. sar
+18. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+19. top
+19. htop
+19. free -h
+19. vmstat
+19. sar
+19. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+20. top
+20. htop
+20. free -h
+20. vmstat
+20. sar
+20. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+21. top
+21. htop
+21. free -h
+21. vmstat
+21. sar
+21. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+22. top
+22. htop
+22. free -h
+22. vmstat
+22. sar
+22. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+23. top
+23. htop
+23. free -h
+23. vmstat
+23. sar
+23. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+24. top
+24. htop
+24. free -h
+24. vmstat
+24. sar
+24. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+25. top
+25. htop
+25. free -h
+25. vmstat
+25. sar
+25. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+26. top
+26. htop
+26. free -h
+26. vmstat
+26. sar
+26. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+27. top
+27. htop
+27. free -h
+27. vmstat
+27. sar
+27. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+28. top
+28. htop
+28. free -h
+28. vmstat
+28. sar
+28. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+29. top
+29. htop
+29. free -h
+29. vmstat
+29. sar
+29. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+30. top
+30. htop
+30. free -h
+30. vmstat
+30. sar
+30. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+31. top
+31. htop
+31. free -h
+31. vmstat
+31. sar
+31. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+32. top
+32. htop
+32. free -h
+32. vmstat
+32. sar
+32. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+33. top
+33. htop
+33. free -h
+33. vmstat
+33. sar
+33. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+34. top
+34. htop
+34. free -h
+34. vmstat
+34. sar
+34. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+35. top
+35. htop
+35. free -h
+35. vmstat
+35. sar
+35. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+36. top
+36. htop
+36. free -h
+36. vmstat
+36. sar
+36. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+37. top
+37. htop
+37. free -h
+37. vmstat
+37. sar
+37. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+38. top
+38. htop
+38. free -h
+38. vmstat
+38. sar
+38. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+39. top
+39. htop
+39. free -h
+39. vmstat
+39. sar
+39. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
+40. top
+40. htop
+40. free -h
+40. vmstat
+40. sar
+40. Performance tuning
+
+Best Practice:
+- Validate before production.
+- Monitor logs.
+- Follow least privilege.
+
